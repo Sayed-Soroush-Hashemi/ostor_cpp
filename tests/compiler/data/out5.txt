@@ -1,0 +1,4 @@
+cj(0,0,0)
+echo("testing if")
+set(x,"()")
+#0

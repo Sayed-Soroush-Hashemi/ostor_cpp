@@ -1,0 +1,4 @@
+if(1) {
+	echo("testing if")
+	set(x, "()")
+}

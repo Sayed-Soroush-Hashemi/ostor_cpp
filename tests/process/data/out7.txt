@@ -1,0 +1,23 @@
+i*j=0
+i*j=0
+0 is done
+i*j=1
+i*j=26
+1 is done
+i*j=8
+i*j=58
+2 is done
+i*j=27
+i*j=102
+3 is done
+i*j=64
+i*j=164
+4 is done
+i*j=125
+5 is done
+i*j=216
+6 is done
+i*j=343
+7 is done
+8 is done
+9 is done

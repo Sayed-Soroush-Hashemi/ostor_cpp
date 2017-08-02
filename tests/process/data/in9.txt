@@ -1,0 +1,14 @@
+for(set(i, 1); i < 20; set(i, i*2)) {
+	echo(i)
+	if(i>15) {
+		set(i, 24)
+	}
+}
+while(i< 50) {
+	echo(i & 31)
+	set(i, 50 + i)
+}
+if(i & 22 != 32) {
+	set(i, 32)
+	echo(i)
+}

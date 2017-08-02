@@ -1,0 +1,8 @@
+for(set(i, 0); i < 10; set(i, i+1)) {
+	set(j, i*i)
+	while(j < 50) {
+		echo(concat("i*j=", i*j))
+		set(j, j+25)
+	}
+	echo(concat(i, " is done"))
+}

@@ -1,0 +1,16 @@
+set(a, "te()")
+set(k, 4)
+while(concat(a, "st") != "test") {
+	for(set(i, 0); i*i < i + 30; set(i,   i+     9)) {
+		if(i > 4) {
+			echo(i)
+			set(i, i+1)
+			for(set(j, i+1); j < 30; set(j, j+1)) {
+				echo(j + i)
+			}
+		}
+	}
+	set(k, k-1)
+	set(a, index(0, k, a))
+	echo(a)
+}

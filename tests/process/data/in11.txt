@@ -1,0 +1,6 @@
+set(i, 10)
+while (i < 30 )    {
+	set(i, 20+i)
+	set(j, "20)")
+	echo(concat(j, " \nit was j"))
+}

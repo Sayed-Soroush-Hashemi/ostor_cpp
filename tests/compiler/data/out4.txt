@@ -1,0 +1,1 @@
+set(a,index(2,9,concat("this is","a test")))
